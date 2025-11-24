@@ -1,4 +1,4 @@
 # demo
 this is my first git repos
 <br>
-author -ishwari mahagaonakar
+author -ishwari (my name)
